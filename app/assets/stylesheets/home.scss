@@ -2,9 +2,39 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-header{
-
-	background: url('/assets/front_6.jpg') !important;
-	background-repeat: no-repeat !important;	
+.text-primary{
+	color: #428bca !important;
+}
+.navbar-default{
+	border-color: transparent !important;
 }
 
+hr{
+	border-color: #428bca !important;
+}
+
+.bg-primary{
+	background: transparent !important;
+}
+
+.text-faded, .section-heading{
+	color: gray !important;
+}
+
+.fa-cogs{
+	color: #5cb85c !important;
+}
+
+.fa-wrench{
+	color: #d9534f !important;
+}
+.mess{
+	color:  #428bca !important;
+}
+.portfolio-box .portfolio-box-caption{
+	background: #1a96d3 !important;
+}
+.project-category{
+	color: #d0ecfd !important;
+}
+ hr.style-two { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); }
